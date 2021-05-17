@@ -1,1 +1,4 @@
-# Image-Annotation-using-GRUs
+# Translating images to text using GRUs
+
+
+
